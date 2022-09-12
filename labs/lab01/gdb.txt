@@ -1,0 +1,9 @@
+1. use "set" command
+2. use "break" command or press "Esc" to go to the code window and press the space key
+3. "n"
+4. "s"
+5. "c"
+6. use "print" command
+7. use "display" command
+8. use "info locals" command
+9. type in "q" and press Enter key or press <C-D> or press "Esc" and type in ":q" and press Enter key just like vim

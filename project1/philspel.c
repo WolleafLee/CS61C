@@ -122,6 +122,7 @@ void readDictionary(char *dictName) {
     } else {
       string[i] = '\0';
       insertData(dictionary, (void *) string, (void *) string);
+      free(string);
       string = malloc(sizeof(char) * 60);
       i = 0;
     }
